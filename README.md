@@ -38,8 +38,7 @@ I created this project to demonstrate my Power BI skills as well as refine them.
 - **Delta Air Lines** had the highest overall number of flights among the airlines shown, followed by **Southwest Airlines and American Airlines**.
 - **Chicago** had the highest proportion of cancelled flights among the cities shown in the cancellation-rate visualisation.
 - **National Air System** was the largest cancellation reason, accounting for approximately **61% of cancelled flights**, followed by **Airline/Carrier** and **Weather**.
-
-- In a professional setting I would investigate these results further to understand why these specific insights were produced, for example, I would investigate why Chicago has the highest cancellation rate.
+- In a professional setting, I would investigate these results further to understand why these specific insights were produced. For example, I would investigate why Chicago has the highest cancellation rate and hypothesise whether this may be related to weather conditions.
 
 ## Preview  
 
