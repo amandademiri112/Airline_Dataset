@@ -46,5 +46,5 @@ I created this project to demonstrate my Power BI skills as well as refine them.
 
 ## Final Project
 
-**[Power BI Project](Final_Project/Airport_Flights_Dashboard.pbix)** 
+**[Airline Flights Dashboard](Final_Project/Airport_Flights_Dashboard.pbix)** 
 
