@@ -15,6 +15,7 @@
 I created this project to demonstrate my Power BI skills as well as refine them. The dashboard especially showcases airline on-time, delayed, and cancelled flights, allowing flight activity to be analysed across cities, airlines, and cancellation reasons.  
 
 ## Objectives
+
 - Analyse the overall distribution of on-time, delayed, and cancelled flights.
 - Compare flight activity across different cities and airlines.
 - Investigate the main reasons for cancelled flights.
